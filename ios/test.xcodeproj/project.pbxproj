@@ -194,7 +194,6 @@
 				C7BEFD1E55CC3FC28D83CB96 /* Pods-test-tvOSTests.debug.xcconfig */,
 				A518F46646BD5836DB744AF9 /* Pods-test-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
